@@ -13,9 +13,8 @@ This Unity project is designed to detect sound input from the microphone and dis
 ## How to Use
 
 1. Download or clone the project to your local machine.
-2. Open the Unity Editor and import the project.
-3. Open the `SampleScene` scene.
-4. Run the project.
+2. Open the Unity Editor and import the VoiceListener.cs in your project.
+3. Configure the VoiceListener.cs settings.
 
 ## Configuration
 
